@@ -38,7 +38,7 @@
     "socket.io": "^4.5.2",
     "socket.io-client": "^4.5.2",
     "uuid": "^9.0.0",
-    "yarn": "^1.22.19"
+    "yarn": "^2.4.3"
   },
   "devDependencies": {
     "@types/dateformat": "^5.0.0",
