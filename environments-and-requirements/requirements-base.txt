@@ -34,3 +34,4 @@ git+https://github.com/openai/CLIP.git@main#egg=clip
 git+https://github.com/Birch-san/k-diffusion.git@mps#egg=k-diffusion
 git+https://github.com/invoke-ai/clipseg.git@relaxed-python-requirement#egg=clipseg
 git+https://github.com/invoke-ai/GFPGAN#egg=gfpgan
+wheel>=0.38.0 # not directly required, pinned by Snyk to avoid a vulnerability
