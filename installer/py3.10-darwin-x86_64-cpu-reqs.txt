@@ -154,7 +154,7 @@ cachetools==5.2.0 \
     # via
     #   google-auth
     #   streamlit
-certifi==2022.9.24 \
+certifi==2022.12.7 \
     --hash=sha256:0d9c601124e5a6ba9712dbc60d9c53c21e34f5f641fe83002317394311bdce14 \
     --hash=sha256:90c1a32f1d68f940488354e36370f6cca89f0f106db09518524c88d6ed83f382
     # via
@@ -403,7 +403,7 @@ ftfy==6.1.1 \
     --hash=sha256:0ffd33fce16b54cccaec78d6ec73d95ad370e5df5a25255c8966a6147bd667ca \
     --hash=sha256:bfc2019f84fcd851419152320a6375604a0f1459c281b5b199b2cd0d2e727f8f
     # via clip
-future==0.18.2 \
+future==0.18.3 \
     --hash=sha256:b1bead90b70cf6ec3f0710ae53a525360fa360d306a86583adc6bf83a4db537d
     # via
     #   basicsr
@@ -1816,7 +1816,7 @@ toolz==0.12.0 \
     --hash=sha256:2059bd4148deb1884bb0eb770a3cde70e7f954cfbbdc2285f1f2de01fd21eb6f \
     --hash=sha256:88c570861c440ee3f2f6037c4654613228ff40c93a6c25e0eba70d17282c6194
     # via altair
-torch==1.13.0 \
+torch==1.13.1 \
     --hash=sha256:0fdd38c96230947b1ed870fed4a560252f8d23c3a2bf4dab9d2d42b18f2e67c8 \
     --hash=sha256:220325d0f4e69ee9edf00c04208244ef7cf22ebce083815ce272c7491f0603f5 \
     --hash=sha256:43db0723fc66ad6486f86dc4890c497937f7cd27429f28f73fb7e4d74b7482e2 \
